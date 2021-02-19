@@ -2,6 +2,12 @@
 )
 A modern programming language featuring formal proofs. Now written in itself!
 
+Formality was forked into the following projects:
+
+- Kind: http://github.com/uwu-tech/kind
+
+- (...)
+
 Why formal proofs?
 ------------------
 
